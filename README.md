@@ -1,5 +1,5 @@
 # SortingAlgos
-a c++ project to compare different sorting algorithms 
+a c++/python project to compare different sorting algorithms 
 
 sorting methods: 
 selection sort,
